@@ -10,6 +10,7 @@
   "precision": 1,
   "operationModes": [
     "cool",
+    "heat",
     "dry",
     "fan_only"
   ],
